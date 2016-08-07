@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>diogo.mendonca&#39;s Blog</title>
-    <link>http://cyberrrr.github.io/</link>
+    <link>https://cyberrrr.github.io/</link>
     <description>Recent content on diogo.mendonca&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Aug 2016 16:34:27 +0100</lastBuildDate>
-    <atom:link href="http://cyberrrr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cyberrrr.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Don&#39;t Repeat Yourself</title>
-      <link>http://cyberrrr.github.io/post/dont-repeat-yourself/</link>
+      <link>https://cyberrrr.github.io/post/dont-repeat-yourself/</link>
       <pubDate>Sun, 07 Aug 2016 16:34:27 +0100</pubDate>
       
-      <guid>http://cyberrrr.github.io/post/dont-repeat-yourself/</guid>
+      <guid>https://cyberrrr.github.io/post/dont-repeat-yourself/</guid>
       <description>&lt;p&gt;Testing HUGO.&lt;/p&gt;
 </description>
     </item>
